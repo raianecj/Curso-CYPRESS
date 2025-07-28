@@ -6,7 +6,7 @@ Ferramentas necessárias:
  - VS Code
  - Cypress
 
-1 - Iniciar projeto com o comando "npm init -y" no terminal
+1 - Iniciar projeto com o comando "npm init -y" no terminal:
 #### npm init -y
 
 2 - Adicionar o cypress como dependencia do projeto (instalar):
@@ -20,7 +20,7 @@ Adicionar no arquivo package.json
     "open":"cypress open" 
   },
 
-E depois rodar o comando
+E depois rodar o comando:
 #### npm run open
 
 ## Iniciando os estudos
@@ -29,3 +29,4 @@ Conceitos do JS importantes de saber:
  - Arrow Functions
  - Promises
  - Describe / It
+ - Assertivas
